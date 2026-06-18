@@ -1,0 +1,28 @@
+{
+  "rules": {
+    "apps": {
+      ".read": "true",
+      ".write": "auth != null"
+    },
+    "ads": {
+      ".read": "true",
+      ".write": "auth != null"
+    },
+    "settings": {
+      ".read": "true",
+      ".write": "auth != null"
+    },
+    "stats": {
+      ".read": "true",
+      ".write": "true"
+    },
+    "contact_messages": {
+      ".read": "auth != null",
+      ".write": "true"
+    },
+    "user_reports": {
+      ".read": "auth != null",
+      ".write": "true"
+    }
+  }
+}

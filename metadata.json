@@ -1,0 +1,6 @@
+{
+  "name": "كيمو أندرويد",
+  "description": "المنصة الرسمية لكيمو أندرويد للتحميل السريع والآمن للتطبيقات والمشاريع البرمجية المطورة مع نظام إعلاني وإحصائي متكامل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
